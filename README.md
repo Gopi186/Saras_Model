@@ -1,2 +1,3 @@
 # Saras_Model
 Modelling TA 
+The Antenna Temperature is simulated for a frequency range of 40-110MHz for short, open, load(50 Ohms), and Sky model where the sky temperature changes as T(v)=To(v/vo)^-a The TA is measured based on the equation 49 of the appendix SARAS 3 CD/EoR Radiometer: Design and Performance of the Receiver paper Two lengths of the transmission lines are considered: 1cm and 1m, to see the effects of reflections over different path lengths The Antenna Temperature is esitimated for higher order of reflections and we finally estimate the number of reflections after which the measured temperature saturates such that the difference in the consecutive readings is 1mK.
